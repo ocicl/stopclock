@@ -2,8 +2,8 @@
 
 stopclock is a library for measuring time using (stop)clocks.
 
-|---------+--------------------------------------------------------------------------|
-| source  | git:https://github.com/Gleefre/stopclock/archive/refs/tags/v1.0.1.tar.gz |
-| version | 1.0.1                                                                    |
-| systems | stopclock                                                                |
-|---------+--------------------------------------------------------------------------|
+|---------+---------------------------------------------------------------------------|
+| source  | file:https://github.com/Gleefre/stopclock/archive/refs/tags/v1.0.1.tar.gz |
+| version | 1.0.1                                                                     |
+| systems | stopclock                                                                 |
+|---------+---------------------------------------------------------------------------|
